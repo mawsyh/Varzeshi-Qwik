@@ -1,0 +1,10 @@
+.custom-lighting {
+  position: absolute;
+  width: 1222.93px;
+  height: 150px;
+  left: 0px;
+  top: -250px;
+
+  background: rgba(151, 70, 214, 0.31);
+  filter: blur(250px);
+}
